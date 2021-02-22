@@ -1,6 +1,7 @@
 ## Introduction
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr04vv&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs?username=mr04vv&layout=compact)
 
 ### Profile
