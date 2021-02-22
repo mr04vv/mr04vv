@@ -14,12 +14,9 @@
   - https://mooriii.com/works/ytube
   - iOS: https://apps.apple.com/jp/app/%E3%82%8F%E3%81%84%E3%82%B3%E3%83%AC/id1526785467
   - Android: https://play.google.com/store/apps/details?id=com.mooriii.yycollection
-
-- ぽすコレ
-  - YouTubeのお気に入りシーンやブックマークしたいツイートなどをタグで管理するアプリ
-  - https://mooriii.com/works/post_collection
-  - iOS: https://apps.apple.com/jp/app/%E3%81%BD%E3%81%99%E3%82%B3%E3%83%AC/id1527047803?mt=8
-  - Android: https://play.google.com/store/apps/details?id=com.mooriii.PostCollection&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
+  - Repositories
+    - ブラウザ版: https://github.com/mr04vv/Ytube
+    - アプリ版: https://github.com/mr04vv/ytube_app
 
 ### Qiita Status 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/mooriii/posts.svg)](http://qiita.com/mooriii)
