@@ -2,8 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr04vv&count_private=true&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr04vv&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Profile
 
