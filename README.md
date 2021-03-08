@@ -9,6 +9,7 @@
 - Fields: Web/Android/iOS
 - Languages: Typescript/Kotlin/Swift/Ruby(Rails)/Dart(Flutter)
 - Portfolio: https://mooriii.com
+- Wantedly: https://www.wantedly.com/id/takuto_mori_d
 
 ### Work
 
